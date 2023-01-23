@@ -7,6 +7,8 @@
 2. `npm install`
 
 ## Usage
+1. Rename .env.exm to .env
+
 **Development**
 
 `npm run start:dev`
